@@ -1,3 +1,5 @@
-# arch-graph-design-website
-This project represent the website for Architecture and Web Design.
+
+
+Architecture and Graphic design website
+This project represent the website for an Architect and Graphic Designer.
 
