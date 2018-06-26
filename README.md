@@ -2,7 +2,7 @@
 # Architecture and Graphic design website
 This project represent the website for an Architect and Graphic Designer.
 
-# Page Structure
+## Page Structure
 1. Header with navigation <h3>
 2. Main banner <h3>
 3. About Us section <h3>
