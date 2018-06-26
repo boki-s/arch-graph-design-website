@@ -3,10 +3,10 @@
 This project represent the website for an Architect and Graphic Designer.
 
 #Page Structure
-1, Header with navigation
-2. Main banner
-3. About Us section
-4. Image gallery
-5. User testimonials
-6. Contact form
-8. Footer
+1. Header with navigation <h3> <br>
+2. Main banner <h3><br>
+3. About Us section <h3> <br>
+4. Image gallery <h3> <br>
+5. User testimonials <h3> <br>
+6. Contact form <h3><br>
+8. Footer <h3><br>
