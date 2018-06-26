@@ -3,7 +3,7 @@
 This project represent the website for an Architect and Graphic Designer.
 
 #Page Structure
-1. Header with navigation <h3>__
+1. Header with navigation <h3>
 2. Main banner <h3><br>
 3. About Us section <h3> <br>
 4. Image gallery <h3> <br>
